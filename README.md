@@ -18,7 +18,7 @@ Doing this program confirmed that I really enjoy working in cybersecurity and I'
 
 <h2>Environments Used </h2>
 
-- <b>Macbook pro</b>
+- <b>macOS</b>
 
 <h2>Program walk-through:</h2>
 
